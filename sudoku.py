@@ -31,15 +31,6 @@ def find_empty(bo):
             if(bo[i][j]==0):
                 return (i,j)
 
-
-def valid(bo,num,pos):
-    #check row
-    for i in range(len(bo)):
-        if (bo[pos[0][i)
-
-
-
-
 print_board(board)
 
 print(find_empty(board))
